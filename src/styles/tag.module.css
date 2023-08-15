@@ -1,0 +1,9 @@
+.container {
+  width: fit-content;
+  padding: 4px 10px;
+  border: 0 solid #2dd4bf;
+  border-radius: 20px;
+  background-color: #186e6391;
+  color: #5eead4;
+  font-size: 0.8rem;
+}

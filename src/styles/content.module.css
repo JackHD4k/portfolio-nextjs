@@ -1,0 +1,18 @@
+.container {
+  width: 550px;
+  padding: 100px 0;
+}
+
+.me {
+  margin-bottom: 5rem;
+  font-size: 1.4rem;
+  text-align: left;
+
+  &.me span {
+    color: #c4d1ec;
+  }
+}
+
+.cards {
+  width: 100%;
+}

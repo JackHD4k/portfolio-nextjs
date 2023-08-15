@@ -1,0 +1,7 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+  margin: 0 200px;
+  padding: 0px 100px;
+}

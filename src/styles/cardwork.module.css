@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  gap: 50px;
+  padding: 20px;
+
+  &.container:hover {
+    background-color: #17274b81;
+    border: 0px solid #17274b81;
+    border-radius: 10px;
+  }
+  
+  &.container:hover .title {
+    color: #51c6c9;
+  }
+}
+
+.date {
+  margin: 5px 0;
+  font-size: small;
+
+  &.date span {
+    display: block;
+    width: 150px;
+  }
+}
+
+.work {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.title {
+  font-size: 1.2rem;
+  color: #c4d1ec;
+}
+
+.company {
+  color: #43506e;
+}
+
+.tag ul{
+  display: flex;
+  gap: 10px;
+}
